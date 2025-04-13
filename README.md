@@ -1,1 +1,1 @@
-Simple HTML/Javascript calculator
+Simple HTML calculator
